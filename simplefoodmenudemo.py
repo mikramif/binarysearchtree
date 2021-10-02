@@ -18,7 +18,7 @@ if readme:
 
     st.write ("For more info, please contact:")
 
-    st.write("<a href='https://www.linkedin.com/in/yong-poh-yu/'>Dr. Yong Poh Yu </a>", unsafe_allow_html=True)
+    st.write("<a href='mikramif@gmail.com'>Ikram </a>", unsafe_allow_html=True)
 
 st.write("Choose an option from the drop down menu on the side bar to continue.")
 
